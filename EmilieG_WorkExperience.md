@@ -1,73 +1,67 @@
 # Emilie Gerber
 
  * <emilie.gerber@hotmail.com>
- 
+ * 4742 22nd Ave. SW, Seattle, WA 98106
  * 503-475-3520
 
-## Background
+## Overview
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+Accomplished results-driven sales and marketing professional with 5 years of experience in account management and relationship development. Resourceful, detail oriented, and analytically minded, with the ability to prioritize, multi-task and ensure projects are completed correctly and on time. Proactively concerned with service quality and process improvement to guarantee customer satisfaction and positive business results.
 
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+## Accomplishments 
+
+*	Through successful collaboration with IT and SDE teams redesigned and improved internal CRM system
+* Worked with engineers to automate and optimize work processes in an effort to improve customer reporting tools
+*	Assisted with the customization and implementation of salesforce.com for the sales, customer support and marketing team
+
+
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+Fine Arts, B.A.  
+2006-2008  
+Portland State University, Portland, OR  
 
-## Proficiency
-
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
 
 ## Experience
 
-### Open Source Developer
+#### Regional Account Manager, Pacific Interpreters, Inc.                                                                    
+July 2010 – present
 
-I currently am a contributor to the open source project [fog](http://fog.io).
 
-### Google.com, San Francisco, CA
+*	Provide support to and management of 300 customer accounts spanning 7 states
+*	Expand existing accounts by up-selling new products and services; Increased customer revenue by 20% in 2012
+*	Manage on average $700,000 client revenue per month
+*	Consult with each customer on best practices and technology solutions to maximize work flow, increase service utilization and ensure customer satisfaction
+*	Launch and implement services at new customer sites; provide customized training for end users
+*	First point of contact for reports of client issues; tracking quality assurance follow up in the Voice of the Customer system
+*	Work directly with Technology and Operations team to investigate call quality issues, find resolutions and document improvements 
+*	Attend industry conferences, trade shows and exhibitions; maintain knowledge of industry news
+*	Assist in preparation of responses to Request for Proposals (RFPs)
 
-#### Site Reliability Engineer - April 2012 to Present
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage.
 
-#### Software Engineer - August 2011 to September 2012
+#### Account Services Manager, Pacific Interpreters, Inc.                                                                    
+February 2008 – July 2010
 
-As a Software Engineer at Google, I worked on Punchd, Google Offers and Google Local.
+*	Set up customer accounts and test set up to ensure proper activation and function
+*	Provide personalized and individual client assistance; primary contact for clients seeking solutions to issues in account tracking, service explanation/expansion, reporting, complaint handling, and billing 
+*	Create and customize client data reports utilizing pivot tables in Excel
+*	Successful project management for a new customer data base and online reporting system
+*	Act as a liaison between other departments and clients; assistance developing new product lines while representing the clients’ needs
+*	Work with operations to ensure correct procedures and protocols
+*	Brief potential clients on products and services
 
-### Punchd, Mountain View, CA
 
-#### Software Developer - May 2011 to July 2011
+#### Gallery Director, Littman and White Galleries (Portland State University)        
+May 2006 - December 2007	
+		                            
+*	Main focus was to promote the galleries and monthly exhibitions
+*	Worked with editors from the school paper and online media on advertising campaigns and articles
+*	Created and revised current and new operating procedures for gallery and employees
+*	Completed administrative tasks, such as expenditure requests, yearly budget, insurance forms, staff scheduling, and yearly artist calendar
+*	Supervised and managed a small group of gallery assistants in daily gallery operations; timely opening of galleries adhering to posted hours, maintaining cleanliness of galleries & artwork, selling artwork and assisting visitors
+*	Coordinated installment of artwork and lighting
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
 
-### iFixit.com, San Luis Obispo CA
-
-#### Software Developer - April 2009 to April 2011
-
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
-
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
-
-<!--
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems - including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
 
