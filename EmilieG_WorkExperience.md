@@ -1,8 +1,8 @@
 # Emilie Gerber
 
 
-[Portfolio](http://emiliegerber.com) |
 Email: <emilie.gerber.harris@gmail.com> |
+[Portfolio](http://emiliegerber.com) |
 [LinkedIn](https://www.linkedin.com/in/emiliegerber)
 
 ## Skills
