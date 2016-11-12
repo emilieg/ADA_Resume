@@ -72,8 +72,10 @@ Pacific interpreters | Portland, OR | February 2008 – November 2014
 
 ## Education
 Web Development Immersive
+
 General Assembly, Seattle, WA | 2016
 
 Bachelors of Arts (Painting, Drawing, Print-Making)
+
 Portland State University, Portland, OR | 2008
 
