@@ -1,29 +1,28 @@
 # Emilie Gerber
 
- * <emilie.gerber@hotmail.com>
- * 4742 22nd Ave. SW, Seattle, WA 98106
- * 503-475-3520
 
-## Overview
+ * [Portfolio](emiliegerber.com)
+ * <emilie.gerber.harris@gmail.com>
+ * [LinkedIn](https://www.linkedin.com/in/emiliegerber)
 
-Accomplished results-driven sales and marketing professional with 5 years of experience in account management and relationship development. Resourceful, detail oriented, and analytically minded, with the ability to prioritize, multi-task and ensure projects are completed correctly and on time. Proactively concerned with service quality and process improvement to guarantee customer satisfaction and positive business results.
+## Skills
 
-## Accomplishments 
-
-*	Through successful collaboration with IT and SDE teams redesigned and improved internal CRM system
-* Worked with engineers to automate and optimize work processes in an effort to improve customer reporting tools
-*	Assisted with the customization and implementation of salesforce.com for the sales, customer support and marketing team
+JavaScript | HTML5 | CSS3 | Node.JS | Express | Angular.JS | SQL | jQuery | AWS | REST APIs| | Responsive Web Design | SalesForce | Google Analytics | Digital Marketing | Project management | Adobe Suite
 
 
+## Summary 
 
-## Education
+Result-driven web developer with marketing and graphic design experience. Focused on providing the best user experience and delivering business results.  Strong foundation in HTML5, CSS3, JavaScript, jQuery and modern front-end frameworks and libraries. 
+
+
+## Experience
 
 Fine Arts, B.A.  
 2006-2008  
 Portland State University, Portland, OR  
 
 
-## Experience
+### Projects
 
 #### Regional Account Manager, Pacific Interpreters, Inc.                                                                    
 July 2010 – present
