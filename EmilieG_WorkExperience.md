@@ -1,9 +1,9 @@
 # Emilie Gerber
 
 
- [Portfolio](emiliegerber.com)
- <emilie.gerber.harris@gmail.com>
- [LinkedIn](https://www.linkedin.com/in/emiliegerber)
+ ##### [Portfolio](http://emiliegerber.com) |
+ ##### <emilie.gerber.harris@gmail.com> |
+ ##### [LinkedIn](https://www.linkedin.com/in/emiliegerber)
 
 ## Skills
 
@@ -56,7 +56,7 @@ Seattle Times | Seattle, WA | July 2015 – January 2015
 * Led execution of the promotional plan for the LiveWire event series including social media strategy, website content, print and digital advertising
 * Increased audience by 150% -  inaugural event attracted 400 attendees
 * Partnered with UX/UI team to ensure consistent branding and optimal user experience
-* Developed attendee survey and evaluated responses to gain insight and improve customer satisfaction
+* Developed attendee surveys and evaluated responses to gain insight and improve customer satisfaction
 
 ### Marketing Coordinator
 MTNW & ECS | Seattle, WA | November 2014 – July 2015
@@ -71,11 +71,11 @@ Pacific interpreters | Portland, OR | February 2008 – November 2014
 * Collaborated with a developer team on SalesForce implementation across the sales and marketing teams 
 
 ## Education
-Web Development Immersive
+*Web Development Immersive*
 
 General Assembly, Seattle, WA | 2016
 
-Bachelors of Arts (Painting, Drawing, Print-Making)
+*Bachelors of Arts (Painting, Drawing, Print-Making)*
 
 Portland State University, Portland, OR | 2008
 
