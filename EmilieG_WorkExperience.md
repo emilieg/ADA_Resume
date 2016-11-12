@@ -1,9 +1,9 @@
 # Emilie Gerber
 
 
- * [Portfolio](emiliegerber.com)
- * <emilie.gerber.harris@gmail.com>
- * [LinkedIn](https://www.linkedin.com/in/emiliegerber)
+ [Portfolio](emiliegerber.com)
+ <emilie.gerber.harris@gmail.com>
+ [LinkedIn](https://www.linkedin.com/in/emiliegerber)
 
 ## Skills
 
@@ -17,50 +17,36 @@ Result-driven web developer with marketing and graphic design experience. Focuse
 
 ## Experience
 
-Fine Arts, B.A.  
-2006-2008  
-Portland State University, Portland, OR  
-
+### Web Developer Student
+General Assembly | Seattle, WA | March 2016 – June 2016
+12-week full-time immersive web development program building on full-stack applications using various languages, frameworks and libraries. 
+  
 
 ### Projects
-
-#### Regional Account Manager, Pacific Interpreters, Inc.                                                                    
-July 2010 – present
-
-
-*	Provide support to and management of 300 customer accounts spanning 7 states
-*	Expand existing accounts by up-selling new products and services; Increased customer revenue by 20% in 2012
-*	Manage on average $700,000 client revenue per month
-*	Consult with each customer on best practices and technology solutions to maximize work flow, increase service utilization and ensure customer satisfaction
-*	Launch and implement services at new customer sites; provide customized training for end users
-*	First point of contact for reports of client issues; tracking quality assurance follow up in the Voice of the Customer system
-*	Work directly with Technology and Operations team to investigate call quality issues, find resolutions and document improvements 
-*	Attend industry conferences, trade shows and exhibitions; maintain knowledge of industry news
-*	Assist in preparation of responses to Request for Proposals (RFPs)
+                                                                    
+#### [What’s That?](https://github.com/emilieg/whatsinthis)
+Node.js | Express.js | JavaScript | Swift | Angular.JS
+* Mobile app that scans products for toxic ingredients – winner of the Code4Impact award at AngelHack • Tested and integrated external Factual API
+* Designed customer use cases and wireframes
 
 
-
-#### Account Services Manager, Pacific Interpreters, Inc.                                                                    
-February 2008 – July 2010
-
-*	Set up customer accounts and test set up to ensure proper activation and function
-*	Provide personalized and individual client assistance; primary contact for clients seeking solutions to issues in account tracking, service explanation/expansion, reporting, complaint handling, and billing 
-*	Create and customize client data reports utilizing pivot tables in Excel
-*	Successful project management for a new customer data base and online reporting system
-*	Act as a liaison between other departments and clients; assistance developing new product lines while representing the clients’ needs
-*	Work with operations to ensure correct procedures and protocols
-*	Brief potential clients on products and services
+#### [Produce Exchange](https://github.com/emilieg/produceexchange)
+MongoDB | Express.js | AngularJS | Node.js | JavaScript | Cloudinary API
+* Craigslist-like app to trade produce built in 4 days using the MEAN stack 
+Application includes user authentication and picture upload functionality via the Cloudinary API
 
 
-#### Gallery Director, Littman and White Galleries (Portland State University)        
-May 2006 - December 2007	
-		                            
-*	Main focus was to promote the galleries and monthly exhibitions
-*	Worked with editors from the school paper and online media on advertising campaigns and articles
-*	Created and revised current and new operating procedures for gallery and employees
-*	Completed administrative tasks, such as expenditure requests, yearly budget, insurance forms, staff scheduling, and yearly artist calendar
-*	Supervised and managed a small group of gallery assistants in daily gallery operations; timely opening of galleries adhering to posted hours, maintaining cleanliness of galleries & artwork, selling artwork and assisting visitors
-*	Coordinated installment of artwork and lighting
+#### [Wino911](https://github.com/emilieg/Wino911)
+PostgreSQL | Express.js | Node.js | JavaScript | Google Pl. & Directions API
+* Responsive app that routes the user to the closest wine bar using Google Places & Directions API
+* Allows users to login and save their favorites to a list
+
+#### [Cappston](https://github.com/emilieg/cappstone)
+PostgreSQL | Ruby | Rails | JavaScript | Google OAuth | Google Calendar API
+* App that tracks job applications and interview appointments built in a group project
+* Primarily responsible for Wireframes and Front-End design
+* Integrated Google OAuth and Calendar API
+
 
 
 
