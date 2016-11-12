@@ -19,6 +19,7 @@ Result-driven web developer with marketing and graphic design experience. Focuse
 
 ### Web Developer Student
 General Assembly | Seattle, WA | March 2016 – June 2016
+  
 12-week full-time immersive web development program building on full-stack applications using various languages, frameworks and libraries. 
   
 
