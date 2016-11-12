@@ -1,9 +1,9 @@
 # Emilie Gerber
 
 
- ##### [Portfolio](http://emiliegerber.com) |
- ##### <emilie.gerber.harris@gmail.com> |
- ##### [LinkedIn](https://www.linkedin.com/in/emiliegerber)
+[Portfolio](http://emiliegerber.com) |
+Email: <emilie.gerber.harris@gmail.com> |
+[LinkedIn](https://www.linkedin.com/in/emiliegerber)
 
 ## Skills
 
@@ -71,11 +71,11 @@ Pacific interpreters | Portland, OR | February 2008 – November 2014
 * Collaborated with a developer team on SalesForce implementation across the sales and marketing teams 
 
 ## Education
-*Web Development Immersive*
+**Web Development Immersive**
 
 General Assembly, Seattle, WA | 2016
 
-*Bachelors of Arts (Painting, Drawing, Print-Making)*
+**Bachelors of Arts (Painting, Drawing, Print-Making)**
 
 Portland State University, Portland, OR | 2008
 
